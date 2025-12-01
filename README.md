@@ -1,2 +1,2 @@
 # Prediction-using-LightGBM
-predicting adani stock using Light gradient boosting 
+Predicting adani stock using Light gradient boosting 
